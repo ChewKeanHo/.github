@@ -401,6 +401,10 @@ graphics mostly for functional needs. Here are my my past projects:
   referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-signal-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-signal-1200x630)
+* **Shopee Trademark Logo** - *the re-drawn official Shopee trademark logo for
+  referencing purposes.* |
+  [1200x1200](https://codeberg.org/chewkeanho/visuals-trademarks-shopee-1200x1200) |
+  [1200x630](https://codeberg.org/chewkeanho/visuals-trademarks-shopee-1200x630)
 * **Sunrise Studio Trademark Logo** - *the re-drawn official Sunrise Studio
   trademark logo for referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-sunrise-1200x1200) |
