@@ -336,6 +336,10 @@ graphics mostly for functional needs. Here are my my past projects:
 * **Microsoft Activator Scripts Trademark Logo** - *the re-drawn official
   Microsoft Activator Scripts trademark logo for referencing purposes.* |
   [1200x1200](https://codeberg.org/chewkeanho/visuals-trademarks-massgrave-1200x1200)
+* **Ministry of Foreign Affairs Singapore Trademark Logo** - *the re-drawn
+  official Ministry of Foreign Affairs Singapore trademark logo for referencing
+  purposes.* |
+  [1200x1200](https://codeberg.org/chewkeanho/visuals-trademarks-mfasg-1200x1200)
 * **Morphlab Enterprise (Morphlab3D) Trademark Logo** - *the re-drawn Morphlab3D
   trademark logo for referencing purposes.* |
   [1200x1200 (Private URL)](/ChewKeanHo/visuals-trademarks-morphlabenterprise-1200x1200) |
