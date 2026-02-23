@@ -163,6 +163,10 @@ graphics mostly for functional needs. Here are my my past projects:
   re-drawn official APU trademark logo for referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-apu-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-apu-1200x630)
+* **Blender Trademark Logo** - *the re-drawn official Blender trademark logo for
+  referencing purposes.* |
+  [1200x1200](https://codeberg.org/chewkeanho/visuals-trademarks-blender-1200x1200) |
+  [1200x630](https://codeberg.org/chewkeanho/visuals-trademarks-blender-1200x630)
 * **Board of Engineering Malaysia (BEM) Trademark Logo** - *the re-drawn
   official BEM trademark logo for referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-bem-1200x1200) |
