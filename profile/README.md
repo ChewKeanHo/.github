@@ -390,6 +390,9 @@ graphics mostly for functional needs. Here are my my past projects:
   [1200x1200 Gesture Designed Ferris](https://codeberg.org/chewkeanho/visuals-trademarks-rustlanggestureferris-1200x1200) |
   [1200x1200 Happy Designed Ferris](https://codeberg.org/chewkeanho/visuals-trademarks-rustlanghappyferris-1200x1200) |
   [1200x1200 Original Ferris](https://codeberg.org/chewkeanho/visuals-trademarks-rustlangoriginalferris-1200x1200)
+* **Schema.org Trademark Logo** - *the re-drawn official Schema.org trademark
+  logo for referencing purposes.* |
+  [1200x1200](https://codeberg.org/chewkeanho/visuals-trademarks-schemaorg-1200x1200)
 * **(Shino) Ong Pei Sun's Trademark Logo** -
   *the re-drawn Shino trademark logo for referencing purposes.* |
   [1200x1200](https://codeberg.org/ChewKeanHo/visuals-trademarks-ongpeisun-1200x1200) |
