@@ -383,6 +383,13 @@ graphics mostly for functional needs. Here are my my past projects:
   trademark logo for referencing purposes.* |
   [1200x1200 (Private URL)](/ChewKeanHo/visuals-trademarks-risscorporatesdnbhd-1200x1200) |
   [1200x630 (Private URL)](/ChewKeanHo/visuals-trademarks-risscorporatesdnbhd-1200x630)
+* **Rust Programming Language (Rust) Trademark Logo** - *the re-drawn official
+  Rust trademark logo for referencing purposes.* |
+  [1200x1200](https://codeberg.org/chewkeanho/visuals-trademarks-rustlang-1200x1200) |
+  [1200x1200 Flat Designed Ferris](https://codeberg.org/chewkeanho/visuals-trademarks-rustlangflatferris-1200x1200) |
+  [1200x1200 Gesture Designed Ferris](https://codeberg.org/chewkeanho/visuals-trademarks-rustlanggestureferris-1200x1200) |
+  [1200x1200 Happy Designed Ferris](https://codeberg.org/chewkeanho/visuals-trademarks-rustlanghappyferris-1200x1200) |
+  [1200x1200 Original Ferris](https://codeberg.org/chewkeanho/visuals-trademarks-rustlangoriginalferris-1200x1200)
 * **(Shino) Ong Pei Sun's Trademark Logo** -
   *the re-drawn Shino trademark logo for referencing purposes.* |
   [1200x1200](https://codeberg.org/ChewKeanHo/visuals-trademarks-ongpeisun-1200x1200) |
