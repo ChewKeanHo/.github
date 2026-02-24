@@ -444,6 +444,9 @@ graphics mostly for functional needs. Here are my my past projects:
   referencing purposes.* |
   [1200x1200](https://codeberg.org/ChewKeanHo/visuals-trademarks-tiktok-1200x1200) |
   [1200x630](https://codeberg.org/ChewKeanHo/visuals-trademarks-tiktok-1200x630)
+* **TinyGo Programming Language Trademark Logo** - *the re-drawn TinyGo
+  Programming Language trademark logo for referencing purposes.* |
+  [1200x1200](https://codeberg.org/ChewKeanHo/visuals-trademarks-tinygolang-1200x1200)
 * **United States General Services Administration (US-GSA)** - *the re-drawn
   official US-GSA trademark logo for referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-gsa-1200x1200)
