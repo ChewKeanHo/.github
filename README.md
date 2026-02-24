@@ -417,6 +417,10 @@ graphics mostly for functional needs. Here are my my past projects:
   referencing purposes.* |
   [1200x1200](https://codeberg.org/ChewKeanHo/visuals-trademarks-soundcloud-1200x1200) |
   [1200x630](https://codeberg.org/ChewKeanHo/visuals-trademarks-soundcloud-1200x630)
+* **SQLite Trademark Logo** - *the re-drawn SQLite trademark logo for
+  referencing purposes.* |
+  [1200x1200](https://codeberg.org/ChewKeanHo/visuals-trademarks-sqlite-1200x1200) |
+  [1200x630](https://codeberg.org/ChewKeanHo/visuals-trademarks-sqlite-1200x630)
 * **Sunrise Studio Trademark Logo** - *the re-drawn official Sunrise Studio
   trademark logo for referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-sunrise-1200x1200) |
