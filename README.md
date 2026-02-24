@@ -440,6 +440,10 @@ graphics mostly for functional needs. Here are my my past projects:
   *the re-drawn Thinasu Enterprise trademark logo for referencing purposes.* |
   [1200x1200](https://codeberg.org/ChewKeanHo/visuals-trademarks-thinasuenterprise-1200x1200) |
   [1200x630](https://codeberg.org/ChewKeanHo/visuals-trademarks-thinasuenterprise-1200x630)
+* **TikTok Trademark Logo** - *the re-drawn TikTok trademark logo for
+  referencing purposes.* |
+  [1200x1200](https://codeberg.org/ChewKeanHo/visuals-trademarks-tiktok-1200x1200) |
+  [1200x630](https://codeberg.org/ChewKeanHo/visuals-trademarks-tiktok-1200x630)
 * **United States General Services Administration (US-GSA)** - *the re-drawn
   official US-GSA trademark logo for referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-gsa-1200x1200)
