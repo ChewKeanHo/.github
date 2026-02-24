@@ -457,6 +457,10 @@ graphics mostly for functional needs. Here are my my past projects:
 * **WY Kwan Enterprise (WYPristine) Trademark Logo** -
   *the re-drawn WYPristine trademark logo for referencing purposes.* |
   [1200x1200](https://codeberg.org/ChewKeanHo/visuals-trademarks-wypristine-1200x1200)
+* **X|Twitter Trademark Logo** - *the re-drawn X|Twitter trademark logo for
+  referencing purposes.* |
+  [1200x1200](https://codeberg.org/ChewKeanHo/visuals-trademarks-x-1200x1200) |
+  [1200x630](https://codeberg.org/ChewKeanHo/visuals-trademarks-x-1200x630)
 * **YouTube Trademark Icon** - *the re-drawn official YouTube trademark icon for
   referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-youtube-icon-1200x1200)
