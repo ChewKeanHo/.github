@@ -432,6 +432,10 @@ graphics mostly for functional needs. Here are my my past projects:
   trademark logo for referencing purposes.* |
   [1200x1200](https://github.com/chewkeanho/visuals-trademarks-tencentqq-1200x1200) |
   [1200x630](https://github.com/chewkeanho/visuals-trademarks-tencentqq-1200x630)
+* **Tencent's WeChat Trademark Logo** - *the re-drawn official Tencent's WeChat
+  trademark logo for referencing purposes.* |
+  [1200x1200](https://github.com/chewkeanho/visuals-trademarks-wechat-1200x1200) |
+  [1200x630](https://github.com/chewkeanho/visuals-trademarks-wechat-1200x630)
 * **The Sombra Project Trademark Logo** -
   *the drawn "The Sombra Project" trademark logo for referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-thesombraproject-1200x1200) |
