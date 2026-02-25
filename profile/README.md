@@ -329,6 +329,10 @@ graphics mostly for functional needs. Here are my my past projects:
 * **Meta's OpenGraph (OpenGraph) Trademark Logo** - *the re-drawn official
   OpenGraph trademark logo for referencing purposes.* |
   [1200x1200](https://github.com/chewkeanho/visuals-trademarks-opengraph-1200x1200)
+* **Meta's WhatsApp (WhatsApp) Trademark Logo** - *the re-drawn official
+  WhatsApp trademark logo for referencing purposes.* |
+  [1200x1200](https://github.com/chewkeanho/visuals-trademarks-metawhatsapp-1200x1200) |
+  [1200x630](https://github.com/chewkeanho/visuals-trademarks-metawhatsapp-1200x630)
 * **Microsoft Trademark Logo** - *the re-drawn official Microsoft trademark logo
   for referencing purposes.* |
   [1200x1200](https://github.com/chewkeanho/visuals-trademarks-microsoft-1200x1200) |
