@@ -144,10 +144,6 @@ graphics mostly for functional needs. Here are my my past projects:
 > representations and properly representing them complying to their respective
 > trademark guidelines. Hence, **DO NOT ABUSE & MISREPRESENT**.
 
-* **[Logo](https://github.com/ChewKeanHo/Logo)** - My
-  `Chew, Kean Ho` natural trademark branding & identity representation as a
-  registered business person & as personal individual. It covers digital &
-  web usages, motion media, all the way to monochrome stamping.
 * **Altel Communications Sdn Bhd (Altel) Trademark Logo** - *the re-drawn
   Altel trademark logo for referencing purposes.* |
   [1200x1200 (Private URL)](/ChewKeanHo/visuals-trademarks-altel-1200x1200) |
@@ -252,6 +248,17 @@ graphics mostly for functional needs. Here are my my past projects:
 * **Hewlett Packard (HP) Trademark Logo** -
   *the re-drawn HP trademark logo for referencing purposes.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-hp-1200x1200)
+* **(Holloway) Chew Kean Ho's Natural Trademark Logo** -
+  *the drawn (Holloway) Chew, Kean Ho's trademark logo for referencing purposes.* |
+  [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanho-1200x1200) |
+  [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanho-1200x630) |
+  [1200x200](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanho-1200x200) |
+  [1200x100](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanho-1200x100) |
+  [310x150](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanho-310x150) |
+  [493x58](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanho-493x58) |
+  [493x312](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanho-493x312) |
+  [630x1200](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanho-630x1200) |
+  [7680x4320](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanho-7680x4320)
 * **Inkscape Trademark Logo** - *the re-drawn official Inkscape trademark logo
   for referencing purposes.* |
   [1200x1200](https://github.com/chewkeanho/visuals-trademarks-inkscape-1200x1200) |
