@@ -47,7 +47,7 @@ Cheers & let's connect!
 
 ## Software
 
-[![banner](/.internals/banners/animated-banner_1200x100.svg)](#)
+[![banner](/.internals/banners/banner_1200x100.svg)](#)
 
 All standalone & "Ready To Deploy" tech merchandise for personal and commercial
 uses.
@@ -97,7 +97,7 @@ only (e.g. code analysis and etc).
 
 ## Datastores
 
-[![banner](/.internals/banners/animated-banner_1200x100.svg)](#)
+[![banner](/.internals/banners/banner_1200x100.svg)](#)
 
 All my template products for bringing up a specific datastore management systems
 both local or cloud computing environments.
@@ -740,7 +740,7 @@ documents, regulatory compliance, and the strategic use of licensing models.
 
 ## Legal & Licenses
 
-[![banner](/.internals/banners/animated-banner_1200x100.svg)](#)
+[![banner](/.internals/banners/banner_1200x100.svg)](#)
 
 My legal documents deployed across all my ventures globally. These documents are
 specifically architectured for continuous updates and upgrades adapting to
@@ -755,8 +755,8 @@ one to advise your venture legally**.
 > **WHY PREFIX MY NAME?**
 >
 > *For identification scoping purposes only* - I can't claim the generic wording
-> like `permissive` worldwide solely just for me. By prefixing, I scope them
-> down to **my version** of permissive. It makes the communication crips and
+> like "`permissive`" worldwide solely just for me. By prefixing, I scope them
+> down to my version of "`permissive`". It makes the communication crisp and
 > clear.
 
 
@@ -765,23 +765,24 @@ one to advise your venture legally**.
 
 These documents are currently under my active and direct stewardship:
 
-* **[chewkeanho-agreement-model-release](https://doi.org/10.5281/zenodo.13997193)**
+* **[chewkeanho-legals-agreements-model-release](https://doi.org/10.5281/zenodo.13997193)**
   - for releasing models (e.g. people, pets, assets) inside a publishable
     content (e.g. image, video, audio, etc).
-* **[chewkeanho-agreement-service-endpoint-onsite](https://doi.org/10.5281/zenodo.14030261)**
-  - for business customers procuring endpoint restoration services from me.
+* **[chewkeanho-legals-agreements-service-endpoint-onsite](https://doi.org/10.5281/zenodo.14030261)**
+  - for business customers procuring endpoint restoration services.
 * **[chewkeanho-license-liberal](https://doi.org/10.5281/zenodo.13770769)**
-  - for releasing content (not limited to software) with maximum freedom
-    targeting publicly accessible content with source-liberty, no-copyleft, and
-    commercial freedom.
+  - for releasing content (not limited to software) with maximum freedom —
+    source-liberty, no-copyleft, commercial freedom.
 * **[chewkeanho-license-permissive](https://doi.org/10.5281/zenodo.13788522)**
-  - for releasing content (not limited to software) targeting public accessible
-    content with public freedom, no-copyleft, and commerical friendliness.
+  - for releasing content (not limited to software) with public freedom,
+    no-copyleft, commercial friendliness.
 * **[chewkeanho-license-proprietary](https://doi.org/10.5281/zenodo.13767361)**
-  - for releasing content (not limited to software) targeting public accessible
-    content with maximum proprietorship control.
-* **[chewkeanho-policy-general](https://doi.org/10.5281/zenodo.13859294)**
-  - for my personal and business transactions under my own terms and conditions.
+  - for releasing content (not limited to software) with maximum proprietorship
+    control.
+* **[chewkeanho-legals-policies-general](https://doi.org/10.5281/zenodo.13859294)**
+  - for personal and business transactions under my own terms and conditions.
+* **[chewkeanho-legals-policies-trademark](https://github.com/chewkeanho/legals-policies-trademark)**
+  - for personal and business logos and wordmarks use guidelines.
 
 
 
@@ -790,12 +791,12 @@ These documents are currently under my active and direct stewardship:
 My press release announcements from the latest to the oldest across the
 timeline.
 
-* **2025-10-30 |  Severance from UDIO** - *the severance from UDIO services step
-  as required due to disagreement of its new "After The Fact" terms of service
-  changes.* |
+* **2025-10-30 | Severance from UDIO** - The severance from UDIO services as
+  required due to disagreement with its new "After The Fact" terms of service
+  changes. |
   [GitHub](https://github.com/ChewKeanHo/press-20251030-severances-from-udio)
 * **2025-05-06 | 2025 Maintainers Month - (Holloway) Chew Kean Ho's Story** -
-  *my maintainer maintainer story for supporting OSI appreciation month.* |
+  My maintainer story for supporting OSI appreciation month. |
   [Official](https://maintaine.rs/) |
   [GitHub](https://github.com/ChewKeanHo/press-2025-maintainers-month) |
   [First Publication](https://github.com/hollowaykeanho/ARTICLE-2025-Maintainers-Month)
@@ -809,8 +810,8 @@ now archived solely for educational and statistical purposes (e.g. tracking how
 they were once developed and evolved). Please use the updated versions.
 
 * **[chewkeanho-gpos](https://doi.org/10.5281/zenodo.13825030)** - discontinued
-  due to conflict of business interest. Use either
+  due to conflict of business interest. Instead, use either
   `Creative Common Share Alike (CC-BY-SA)`-based or
-  `General Public License (GPL)`-based licenses whichever applicable instead.
+  `General Public License (GPL)`-based licenses whichever applicable.
 * **[chewkeanho-rlos](https://doi.org/10.5281/zenodo.13777226)** - superseded
   by [chewkeanho-license-permissive](https://doi.org/10.5281/zenodo.13788522).
