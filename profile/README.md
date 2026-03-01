@@ -260,6 +260,17 @@ graphics mostly for functional needs. Here are my my past projects:
   [493x312](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanho-493x312) |
   [630x1200](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanho-630x1200) |
   [7680x4320](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanho-7680x4320)
+* **(Holloway) Chew Kean Ho's Knowledge Research Service Product Trademark Logo** -
+  *the drawn (Holloway) Chew, Kean Ho's trademark logo for referencing purposes.* |
+  [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhoresearch-1200x1200) |
+  [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhoresearch-1200x630) |
+  [1200x200](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhoresearch-1200x200) |
+  [1200x100](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhoresearch-1200x100) |
+  [310x150](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhoresearch-310x150) |
+  [493x58](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhoresearch-493x58) |
+  [493x312](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhoresearch-493x312) |
+  [630x1200](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhoresearch-630x1200) |
+  [7680x4320](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhoresearch-7680x4320)
 * **Inkscape Trademark Logo** - *the re-drawn official Inkscape trademark logo
   for referencing purposes.* |
   [1200x1200](https://github.com/chewkeanho/visuals-trademarks-inkscape-1200x1200) |
@@ -661,12 +672,12 @@ my albums:
 
 
 
-## Researches
+## Research & Development
 
 [![banner](/.internals/banners/animated-banner-researches_1200x100.svg)](#)
 
-My independent & associated researches publications using OpenResearch
-directions.
+My independent research publications via liberal and open accessible
+[OpenResearch](https://en.wikipedia.org/wiki/Open_research) direction.
 
 
 
@@ -674,7 +685,7 @@ directions.
 
 These are computer sciences and technologies focused researches:
 
-* **[chewkeanho-researches-filesystems-hierarchy](https://doi.org/10.5281/zenodo.17864564)** -
+* **[chewkeanho-research-filesystems-hierarchy](https://doi.org/10.5281/zenodo.17864564)** -
   Continuous research of filesystems hierarchical structuring consolidation for
   project layout purposes.
 
