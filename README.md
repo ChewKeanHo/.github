@@ -672,22 +672,68 @@ my albums:
 
 
 
-## Research & Development
+## Knowledge Research
 
-[![banner](/.internals/banners/animated-banner-researches_1200x100.svg)](#)
+[![banner](/.internals/banners/banner-research_1200x100.svg)](#)
 
-My independent research publications via liberal and open accessible
-[OpenResearch](https://en.wikipedia.org/wiki/Open_research) direction.
+My work is grounded in structured inquiry. This section archives my formal
+research output, conducted under either Open Research (public, reproducible) or
+Proprietary Research (internal, client-focused) directives. The primary goal is
+the systematic acquisition and management of knowledge, processes, and datasets
+across multiple domains.
 
 
 
 ### Computer Sciences & Technologies
 
-These are computer sciences and technologies focused researches:
+Research into computing fundamentals, programming paradigms, algorithmic design,
+systems control, software architecture, and hardware integration.
 
 * **[chewkeanho-research-filesystems-hierarchy](https://doi.org/10.5281/zenodo.17864564)** -
-  Continuous research of filesystems hierarchical structuring consolidation for
-  project layout purposes.
+  A continuous, comparative analysis of filesystem hierarchy standards (FHS)
+  across various operating systems and their application in complex project
+  structures.
+
+
+
+### Design & Arts
+
+Research into the principles and practice of visual communication and creative
+expression. This includes the study of design theory, typography, color science,
+user interface aesthetics, and the broader context of art history and criticism.
+
+* Coming soon.
+
+
+
+### Social Communications
+
+Research into the mechanics and strategies of human interaction. This includes
+the study of communication techniques, body language analysis, and the
+structured application of methodologies such as neuro-linguistic programming
+(NLP) for clarity and influence.
+
+* Coming soon.
+
+
+
+### Foods & Water Agricultures
+
+Research into sustainable food and water systems. This encompasses horticulture,
+agriculture, aquaculture, and integrated systems such as aquaponics, with an
+emphasis on process optimization and resource management.
+
+* Coming soon.
+
+
+
+### Legals & Licenses
+
+Research into the frameworks that govern commercial and intellectual activity.
+This domain focuses on the structure and application of business legal
+documents, regulatory compliance, and the strategic use of licensing models.
+
+* Coming soon.
 
 
 
