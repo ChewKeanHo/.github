@@ -435,6 +435,9 @@ to the trademark owner's usage policy.
 * **Foodpanda** - *the re-drawn official Foodpanda's trademark logos.* |
   [1200x1200](https://github.com/chewkeanho/visuals-trademarks-foodpanda-1200x1200) |
   [1200x630](https://github.com/chewkeanho/visuals-trademarks-foodpanda-1200x630)
+* **Forgejo** - *the re-drawn official Forgejo trademark logos.* |
+  [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-forgejo-1200x1200) |
+  [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-forgejo-1200x630)
 * **GNU Cash (GNUCash)** - *the re-drawn official GNUCash's trademark logos.* |
   [1200x1200](https://github.com/chewkeanho/visuals-trademarks-gnucash-1200x1200) |
   [1200x630](https://github.com/chewkeanho/visuals-trademarks-gnucash-1200x630)
