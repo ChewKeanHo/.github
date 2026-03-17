@@ -449,6 +449,8 @@ to the trademark owner's usage policy.
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-github-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-github-1200x630) |
   [1200x1200 (Mascot)](https://github.com/chewkeanho/visuals-trademarks-githuboctocat-1200x1200)
+* **Gitea** - *the re-drawn official Gitea trademark logo.* |
+  [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-gitea-1200x1200)
 * **Google's Go Programming Language (Go)** - *the re-drawn official Go's
   trademark logos.* |
   [1200x1200](https://github.com/chewkeanho/visuals-trademarks-go-1200x1200) |
