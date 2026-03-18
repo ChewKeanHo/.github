@@ -91,8 +91,8 @@ for the public to use.
   on consistent algorithms across multiple programming languages.* |
   [GitHub](https://github.com/ChewKeanHo/software-hestia) |
   [Internal (Private URL)](/ChewKeanHo/software-hestia)
-* **File Datastore Git Repository Template** - *seamlessly turning a `git` repo
-  into a correct file storage system without a new server deployment.* |
+* **File Datastore Git Template** - *Seamlessly turning a Git repo into a
+  correctable file server.*
   [GitHub](https://github.com/ChewKeanHo/software-file-datastore-git-template) |
   [Internal (Private URL)](/ChewKeanHo/software-file-datastore-git-template)
 
