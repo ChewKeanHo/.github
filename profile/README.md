@@ -967,6 +967,7 @@ systems control, software architecture, and hardware integration.
   report. It is related to Forgejo on FreeBSD operating system.* |
   [CVE MITRE (Official)](https://www.cve.org/CVERecord?id=CVE-2025-68971) |
   [GCVE EU (Official)](https://db.gcve.eu/vuln/cve-2025-68971) |
+  [GitHub Security Advisory (Official)](https://github.com/advisories/ghsa-8mff-gcgj-hhfr) |
   [Zenodo.org (Official)](https://doi.org/10.5281/zenodo.18932933) |
   [Codeberg.org](https://codeberg.org/chewkeanho/research-cve-2025-68971) |
   [GitHub](https://github.com/ChewKeanHo/research-cve-2025-68971) |
