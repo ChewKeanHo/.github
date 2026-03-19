@@ -310,6 +310,9 @@ public to use.
 * **Capo Ecclesia Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-capo-ecclesia) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-capo-ecclesia)
+* **Capo Nodi Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-capo-nodi) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-capo-nodi)
 * **Combat Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-combat) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-combat)
