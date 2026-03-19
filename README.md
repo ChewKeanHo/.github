@@ -295,6 +295,9 @@ public to use.
 * **Cantique Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-cantique) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-cantique)
+* **Capo Bicolore Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-capo-bicolore) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-capo-bicolore)
 * **Capo 1880 Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-capo-1880) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-capo-1880)
