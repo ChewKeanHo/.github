@@ -307,6 +307,9 @@ public to use.
 * **Capo Decoro Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-capo-decoro) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-capo-decoro)
+* **Capo Ecclesia Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-capo-ecclesia) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-capo-ecclesia)
 * **Combat Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-combat) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-combat)
