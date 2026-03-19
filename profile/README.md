@@ -316,6 +316,9 @@ public to use.
 * **Capo Rose Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-capo-rose) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-capo-rose)
+* **Capo Verso Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-capo-verso) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-capo-verso)
 * **Combat Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-combat) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-combat)
