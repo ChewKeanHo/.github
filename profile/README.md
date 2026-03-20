@@ -322,6 +322,9 @@ public to use.
 * **Caramel Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-caramel) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-caramel)
+* **Castoro Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-castoro) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-castoro)
 * **Combat Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-combat) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-combat)
