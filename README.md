@@ -319,6 +319,9 @@ public to use.
 * **Capo Verso Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-capo-verso) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-capo-verso)
+* **Caramel Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-caramel) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-caramel)
 * **Combat Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-combat) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-combat)
