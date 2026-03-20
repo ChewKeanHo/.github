@@ -368,6 +368,9 @@ public to use.
 * **Trickster Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-trickster) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-trickster)
+* **Ziffera Veneta Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-ziffera-veneta) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-ziffera-veneta)
 
 
 
