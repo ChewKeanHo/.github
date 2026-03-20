@@ -325,6 +325,9 @@ public to use.
 * **Castoro Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-castoro) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-castoro)
+* **Celtica Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-celtica) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-celtica)
 * **Combat Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-combat) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-combat)
