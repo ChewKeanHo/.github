@@ -334,6 +334,9 @@ public to use.
 * **ChillSide Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-chillside) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-chillside)
+* **Chokokutai Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-chokokutai) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-chokokutai)
 * **Combat Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-combat) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-combat)
