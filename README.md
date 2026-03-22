@@ -346,6 +346,9 @@ public to use.
 * **Comforter Brush Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-comforter-brush) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-comforter-brush)
+* **Copilot Brush Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-copilot) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-copilot)
 * **Euphoria Script Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-euphoria-script) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-euphoria-script)
