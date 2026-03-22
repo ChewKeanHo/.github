@@ -349,6 +349,9 @@ public to use.
 * **Copilot Brush Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-copilot) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-copilot)
+* **Cornerita Brush Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-cornerita) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-cornerita)
 * **Euphoria Script Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-euphoria-script) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-euphoria-script)
