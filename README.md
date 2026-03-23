@@ -355,6 +355,9 @@ public to use.
 * **Creato Display Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-creato-display) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-creato-display)
+* **Dabir Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-dabir) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-dabir)
 * **Euphoria Script Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-euphoria-script) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-euphoria-script)
