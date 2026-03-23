@@ -404,9 +404,12 @@ public to use.
 * **Terminal Grotesque Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-terminal-grotesque) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-terminal-grotesque)
-* **TINY Font** - *a re-distributed OFL-licensed font.* |
-  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-tiny) |
-  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-tiny)
+* **Tiny5 Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-tiny5) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-tiny5)
+* **Tiny 5x3 Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-tiny-5x3) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-tiny-5x3)
 * **Trickster Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-trickster) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-trickster)
