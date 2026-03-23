@@ -367,6 +367,9 @@ public to use.
 * **Durendal & Oliphant Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-durendal-and-oliphant) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-durendal-and-oliphant)
+* **Edge Display Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-edge-display) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-edge-display)
 * **Euphoria Script Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-euphoria-script) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-euphoria-script)
