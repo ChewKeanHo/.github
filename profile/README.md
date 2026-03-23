@@ -370,6 +370,9 @@ public to use.
 * **Edge Display Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-edge-display) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-edge-display)
+* **Eirian Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-eirian) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-eirian)
 * **Euphoria Script Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-euphoria-script) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-euphoria-script)
