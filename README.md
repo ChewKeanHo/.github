@@ -373,6 +373,9 @@ public to use.
 * **Eirian Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-eirian) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-eirian)
+* **Elounda Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-elounda) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-elounda)
 * **Euphoria Script Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-euphoria-script) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-euphoria-script)
