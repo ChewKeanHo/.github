@@ -358,6 +358,9 @@ public to use.
 * **Dabir Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-dabir) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-dabir)
+* **Dimica Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-dimica) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-dimica)
 * **Euphoria Script Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-euphoria-script) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-euphoria-script)
