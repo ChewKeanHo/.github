@@ -361,6 +361,9 @@ public to use.
 * **Dimica Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-dimica) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-dimica)
+* **DotMatrix Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-dotmatrix) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-dotmatrix)
 * **Euphoria Script Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-euphoria-script) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-euphoria-script)
