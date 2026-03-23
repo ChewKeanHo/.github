@@ -364,6 +364,9 @@ public to use.
 * **DotMatrix Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-dotmatrix) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-dotmatrix)
+* **Durendal & Oliphant Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-durendal-and-oliphant) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-durendal-and-oliphant)
 * **Euphoria Script Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-euphoria-script) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-euphoria-script)
