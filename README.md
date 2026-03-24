@@ -286,6 +286,9 @@ public to use.
 * **Blade Rounded Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-blade-rounded) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-blade-rounded)
+* **Baemin Dohyeon Font** - *a re-distributed OFL-licensed Korean font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-bm-dohyeon) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-bm-dohyeon)
 * **Baemin Euljiro Font** - *a re-distributed OFL-licensed Korean font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-bm-euljiro) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-bm-euljiro)
