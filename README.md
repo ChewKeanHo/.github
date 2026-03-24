@@ -292,6 +292,9 @@ public to use.
 * **Baemin Euljiro Font** - *a re-distributed OFL-licensed Korean font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-bm-euljiro) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-bm-euljiro)
+* **Baemin Euljiro 10 Years Later Font** - *a re-distributed OFL-licensed Korean font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-bm-euljiro-10-years-later) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-bm-euljiro-10-years-later)
 * **Baemin Hanna Air** - *a re-distributed OFL-licensed Korean font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-bm-hanna-air) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-bm-hanna-air)
