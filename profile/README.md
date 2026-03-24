@@ -232,7 +232,7 @@ public to use.
 * **Abstractus Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-abstractus) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-abstractus)
-* **Akshar Font** - *a re-distributed OFL-licensed font.* |
+* **Akshar Font** - *a re-distributed OFL-licensed Devanagari font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-akshar) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-akshar)
 * **Alan Sans Font** - *a re-distributed OFL-licensed font.* |
@@ -340,7 +340,7 @@ public to use.
 * **ChillSide Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-chillside) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-chillside)
-* **Chokokutai Font** - *a re-distributed OFL-licensed font.* |
+* **Chokokutai Font** - *a re-distributed OFL-licensed Japanese font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-chokokutai) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-chokokutai)
 * **Combat Font** - *a re-distributed OFL-licensed font.* |
