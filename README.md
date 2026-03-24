@@ -292,6 +292,9 @@ public to use.
 * **Baemin Hanna Is Eleven Font** - *a re-distributed OFL-licensed Korean font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-bm-hanna-11years-old) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-bm-hanna-11years-old)
+* **Baemin Jua Font** - *a re-distributed OFL-licensed Korean font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-bm-jua) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-bm-jua)
 * **C4-Type V.4 Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-c4-type-v4) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-c4-type-v4)
