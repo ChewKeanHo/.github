@@ -298,6 +298,9 @@ public to use.
 * **Baemin Jua Font** - *a re-distributed OFL-licensed Korean font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-bm-jua) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-bm-jua)
+* **Baemin KirangHaerang Font** - *a re-distributed OFL-licensed Korean font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-bm-kiranghaerang) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-bm-kiranghaerang)
 * **Baemin Yeonsung Font** - *a re-distributed OFL-licensed Korean font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-bm-yeonsung) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-bm-yeonsung)
