@@ -412,6 +412,9 @@ public to use.
 * **Euphoria Script Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-euphoria-script) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-euphoria-script)
+* **Evening Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-evening) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-evening)
 * **Façade Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-facade) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-facade)
