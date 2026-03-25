@@ -415,6 +415,9 @@ public to use.
 * **Evening Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-evening) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-evening)
+* **Expanse Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-expanse) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-expanse)
 * **Façade Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-facade) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-facade)
