@@ -418,6 +418,9 @@ public to use.
 * **Expanse Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-expanse) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-expanse)
+* **Explora Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-explora) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-explora)
 * **Façade Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-facade) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-facade)
