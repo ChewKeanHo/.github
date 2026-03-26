@@ -427,6 +427,9 @@ public to use.
 * **Façade Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-facade) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-facade)
+* **Festive Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-festive) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-festive)
 * **Format_1452 Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-format1452) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-format1452)
