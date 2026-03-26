@@ -442,6 +442,9 @@ public to use.
 * **Foundation One Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-foundationone) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-foundationone)
+* **Foundation Titles Hand Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-foundationtitleshand) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-foundationtitleshand)
 * **Gulax Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-gulax) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-gulax)
