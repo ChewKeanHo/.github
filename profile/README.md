@@ -430,6 +430,9 @@ public to use.
 * **Festive Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-festive) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-festive)
+* **Fleur De Leah Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-fleur-de-leah) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-fleur-de-leah)
 * **Format_1452 Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-format1452) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-format1452)
