@@ -436,6 +436,9 @@ public to use.
 * **Format_1452 Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-format1452) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-format1452)
+* **Fortzilla Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-fortzilla) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-fortzilla)
 * **Gulax Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-gulax) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-gulax)
