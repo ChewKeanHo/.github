@@ -421,6 +421,9 @@ public to use.
 * **Explora Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-explora) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-explora)
+* **Faculty Glyphic Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-faculty-glyphic) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-faculty-glyphic)
 * **Façade Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-facade) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-facade)
