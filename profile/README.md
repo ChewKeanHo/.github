@@ -439,6 +439,9 @@ public to use.
 * **Fortzilla Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-fortzilla) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-fortzilla)
+* **Foundation One Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-foundationone) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-foundationone)
 * **Gulax Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-gulax) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-gulax)
