@@ -454,6 +454,9 @@ public to use.
 * **Fuggles Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-fuggles) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-fuggles)
+* **Galiver Sans Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-galiver-sans) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-galiver-sans)
 * **Gulax Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-gulax) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-gulax)
