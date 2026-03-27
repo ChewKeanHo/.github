@@ -457,6 +457,9 @@ public to use.
 * **Galiver Sans Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-galiver-sans) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-galiver-sans)
+* **Galiver Sans Obliques Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-galiver-sans-obliques) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-galiver-sans-obliques)
 * **Gulax Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-gulax) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-gulax)
