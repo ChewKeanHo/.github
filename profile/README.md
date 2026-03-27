@@ -448,6 +448,9 @@ public to use.
 * **Friendly Sans Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-friendly-sans) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-friendly-sans)
+* **FT Aurebesh Sans Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-ft-aurebesh) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-ft-aurebesh)
 * **Gulax Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-gulax) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-gulax)
