@@ -460,6 +460,9 @@ public to use.
 * **Galiver Sans Obliques Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-galiver-sans-obliques) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-galiver-sans-obliques)
+* **Garamontio Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-garamontio) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-garamontio)
 * **Gulax Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-gulax) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-gulax)
