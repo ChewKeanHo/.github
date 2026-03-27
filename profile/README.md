@@ -469,6 +469,9 @@ public to use.
 * **Garamontio Sans Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-garamontio-sans) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-garamontio-sans)
+* **Garineldo Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-garineldo) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-garineldo)
 * **Gulax Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-gulax) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-gulax)
