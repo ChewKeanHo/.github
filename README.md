@@ -472,6 +472,9 @@ public to use.
 * **Garineldo Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-garineldo) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-garineldo)
+* **Gideon Roman Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-gideon-roman) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-gideon-roman)
 * **Gulax Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-gulax) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-gulax)
