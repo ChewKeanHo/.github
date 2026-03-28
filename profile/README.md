@@ -475,6 +475,9 @@ public to use.
 * **Gideon Roman Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-gideon-roman) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-gideon-roman)
+* **Gilbert Font** - *a re-distributed CC-BY-SA-4.0-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-gilbert) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-gilbert)
 * **Gulax Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-gulax) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-gulax)
