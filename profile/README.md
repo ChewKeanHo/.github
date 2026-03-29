@@ -493,9 +493,12 @@ public to use.
 * **Goorm Sans Code Font** - *a re-distributed OFL-licensed Korean & Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-goorm-sans-code) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-goorm-sans-code)
-* **Gotu Code Font** - *a re-distributed OFL-licensed Devanagari & Latin font.* |
+* **Gotu Font** - *a re-distributed OFL-licensed Devanagari & Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-gotu) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-gotu)
+* **Grape Nuts Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-grape-nuts) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-grape-nuts)
 * **Gulax Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-gulax) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-gulax)
