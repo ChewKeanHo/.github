@@ -481,6 +481,9 @@ public to use.
 * **Giphurs Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-giphurs) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-giphurs)
+* **Gloock Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-gloock) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-gloock)
 * **Gulax Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-gulax) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-gulax)
