@@ -478,6 +478,9 @@ public to use.
 * **Gilbert Font** - *a re-distributed CC-BY-SA-4.0-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-gilbert) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-gilbert)
+* **Giphurs Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-giphurs) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-giphurs)
 * **Gulax Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-gulax) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-gulax)
