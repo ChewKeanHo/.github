@@ -487,9 +487,12 @@ public to use.
 * **Goli Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-goli) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-goli)
-* **Goorm Sans Font** - *a re-distributed OFL-licensed Korean + Latin font.* |
+* **Goorm Sans Font** - *a re-distributed OFL-licensed Korean & Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-goorm-sans) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-goorm-sans)
+* **Goorm Sans Code Font** - *a re-distributed OFL-licensed Korean & Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-goorm-sans-code) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-goorm-sans-code)
 * **Gulax Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-gulax) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-gulax)
