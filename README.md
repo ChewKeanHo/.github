@@ -502,6 +502,9 @@ public to use.
 * **Grechen Fuemen Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-grechen-fuemen) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-grechen-fuemen)
+* **Grey Qo Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-grey-qo) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-grey-qo)
 * **Gulax Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-gulax) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-gulax)
