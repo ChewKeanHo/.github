@@ -508,6 +508,9 @@ public to use.
 * **Gwendolyn Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-gwendolyn) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-gwendolyn)
+* **Gyrotrope Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-gyrotrope) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-gyrotrope)
 * **Gulax Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-gulax) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-gulax)
