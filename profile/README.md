@@ -520,6 +520,9 @@ public to use.
 * **Hasköy Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-haskoy) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-haskoy)
+* **Heading West Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-heading-west) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-heading-west)
 * **(Holloway) Chew, Kean Ho's Hestia Icons Pack** - *our default open-source
   icon packs for design and system use.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-icons-hestia) |
