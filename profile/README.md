@@ -532,6 +532,9 @@ public to use.
 * **Hikasami Font** - *a re-distributed OFL-licensed Cyrillic & Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-hikasami) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-hikasami)
+* **Hina-Mincho (ひな明朝) Font** - *a re-distributed OFL-licensed Japanese font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-hina-mincho) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-hina-mincho)
 * **(Holloway) Chew, Kean Ho's Hestia Icons Pack** - *our default open-source
   icon packs for design and system use.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-icons-hestia) |
