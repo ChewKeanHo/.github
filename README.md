@@ -529,6 +529,9 @@ public to use.
 * **Heroika (Namikus) Font** - *a re-distributed OFL-licensed Cyrillic & Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-heroika-namikus) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-heroika-namikus)
+* **Hikasami Font** - *a re-distributed OFL-licensed Cyrillic & Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-hikasami) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-hikasami)
 * **(Holloway) Chew, Kean Ho's Hestia Icons Pack** - *our default open-source
   icon packs for design and system use.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-icons-hestia) |
