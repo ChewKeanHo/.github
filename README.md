@@ -499,6 +499,9 @@ public to use.
 * **Grape Nuts Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-grape-nuts) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-grape-nuts)
+* **Grechen Fuemen Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-grechen-fuemen) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-grechen-fuemen)
 * **Gulax Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-gulax) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-gulax)
