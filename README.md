@@ -505,6 +505,9 @@ public to use.
 * **Grey Qo Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-grey-qo) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-grey-qo)
+* **Gwendolyn Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-gwendolyn) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-gwendolyn)
 * **Gulax Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-gulax) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-gulax)
