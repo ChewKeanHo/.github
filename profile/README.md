@@ -73,11 +73,11 @@ for the public to use.
   Operating System Fabricator.* |
   [GitHub](https://github.com/ChewKeanHo/software-actualizer) |
   [Internal (Private URL)](/ChewKeanHo/software-actualizer)
-* **(Holloway) Chew, Kean Ho's Automata (`chewkeanho-automata`)** - *A
+* **(Holloway) Chew, Kean Ho's Automaton (`chewkeanho-automaton`)** - *A
   semi-autonomous, decentralized capable, and redistribution capable automaton
   for continuous improvement and reproducible purposes.* |
-  [GitHub](https://github.com/ChewKeanHo/software-automata) |
-  [Internal (Private URL)](/ChewKeanHo/software-automata)
+  [GitHub](https://github.com/ChewKeanHo/software-automaton) |
+  [Internal (Private URL)](/ChewKeanHo/software-automaton)
 * **(Holloway) Chew, Kean Ho's T2T** - *A localized and minimalist designed
   text-to-text artificial intelligence processing application.* |
   [GitHub](https://github.com/ChewKeanHo/software-T2T) |
@@ -130,7 +130,7 @@ versions.
 
 * **AutomataCI** - *A semi-autonomous, decentralized, and redistributable CI
   infrastructure readily available for any new project. Superseded by
-  `(Holloway) Chew, Kean Ho's Automata`.* |
+  `(Holloway) Chew, Kean Ho's Automaton`.* |
   [GitHub](https://github.com/ChewKeanHo/software-automataci) |
   [Internal (Private URL)](/ChewKeanHo/software-automataci)
 * **QVMS** - *No non-sense QEMU control UI surface for advanced hardware
