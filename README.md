@@ -544,6 +544,9 @@ public to use.
 * **Hurricane Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-hurricane) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-hurricane)
+* **Hurricane Pro Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-hurricane-pro) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-hurricane-pro)
 * **(Holloway) Chew, Kean Ho's Hestia Icons Pack** - *our default open-source
   icon packs for design and system use.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-icons-hestia) |
