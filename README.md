@@ -538,6 +538,9 @@ public to use.
 * **Honeycomb Round Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-honeycomb-round) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-honeycomb-round)
+* **Honeycomb Sharp Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-honeycomb-sharp) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-honeycomb-sharp)
 * **(Holloway) Chew, Kean Ho's Hestia Icons Pack** - *our default open-source
   icon packs for design and system use.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-icons-hestia) |
