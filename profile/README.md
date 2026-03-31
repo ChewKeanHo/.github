@@ -535,6 +535,10 @@ public to use.
 * **Hina-Mincho (ひな明朝) Font** - *a re-distributed OFL-licensed Japanese font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-hina-mincho) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-hina-mincho)
+* **(Holloway) Chew, Kean Ho's Hestia Icons Pack** - *our default open-source
+  icon packs for design and system use.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-icons-hestia) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-icons-hestia)
 * **Honeycomb Round Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-honeycomb-round) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-honeycomb-round)
@@ -547,10 +551,9 @@ public to use.
 * **Hurricane Pro Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-hurricane-pro) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-hurricane-pro)
-* **(Holloway) Chew, Kean Ho's Hestia Icons Pack** - *our default open-source
-  icon packs for design and system use.* |
-  [GitHub](https://github.com/ChewKeanHo/visuals-icons-hestia) |
-  [Internal (Private URL)](/ChewKeanHo/visuals-icons-hestia)
+* **Hyrax Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-hyrax) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-hyrax)
 * **Interlope Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-interlope) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-interlope)
