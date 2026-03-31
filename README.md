@@ -541,6 +541,9 @@ public to use.
 * **Honeycomb Sharp Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-honeycomb-sharp) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-honeycomb-sharp)
+* **Hurricane Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-hurricane) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-hurricane)
 * **(Holloway) Chew, Kean Ho's Hestia Icons Pack** - *our default open-source
   icon packs for design and system use.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-icons-hestia) |
