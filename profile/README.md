@@ -1206,8 +1206,8 @@ across multiple domains.
 Research into computing fundamentals, programming paradigms, algorithmic design,
 systems control, software architecture, and hardware integration.
 
-* **CVE 2025-68971** - *Full `CVE-2025-68971` security vulnerability research
-  report. It is related to Forgejo on FreeBSD operating system.* |
+* **CVE 2025-68971** - *Full security vulnerability research report related to
+  Forgejo on FreeBSD operating system.* |
   [CVE MITRE (Official)](https://www.cve.org/CVERecord?id=CVE-2025-68971) |
   [GCVE EU (Official)](https://db.gcve.eu/vuln/cve-2025-68971) |
   [GitHub Security Advisory (Official)](https://github.com/advisories/ghsa-8mff-gcgj-hhfr) |
