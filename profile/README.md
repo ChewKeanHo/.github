@@ -560,6 +560,9 @@ public to use.
 * **Ignotum Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-ignotum) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-ignotum)
+* **Inclitodo Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-inclitodo) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-inclitodo)
 * **Interlope Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-interlope) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-interlope)
