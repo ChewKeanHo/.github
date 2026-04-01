@@ -563,6 +563,9 @@ public to use.
 * **Inclitodo Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-inclitodo) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-inclitodo)
+* **Ingrid Darling Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-ingrid-darling) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-ingrid-darling)
 * **Interlope Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-interlope) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-interlope)
