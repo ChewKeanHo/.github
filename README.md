@@ -596,6 +596,9 @@ public to use.
 * **Kiwi Maru Font** - *a re-distributed OFL-licensed Japanese with Latin & Greek font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-kiwi-maru) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-kiwi-maru)
+* **Kleymissky Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-kleymissky) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-kleymissky)
 * **Linux Libertine Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-linux-libertine) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-linux-libertine)
