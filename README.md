@@ -572,6 +572,9 @@ public to use.
 * **January Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-january) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-january)
+* **Joscelyn Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-joscelyn) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-joscelyn)
 * **Jgs Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-jgs) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-jgs)
