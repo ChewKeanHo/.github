@@ -584,6 +584,9 @@ public to use.
 * **Karrik Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-karrik) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-karrik)
+* **Kawoszeh Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-kawoszeh) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-kawoszeh)
 * **Linux Libertine Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-linux-libertine) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-linux-libertine)
