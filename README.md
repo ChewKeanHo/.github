@@ -590,6 +590,9 @@ public to use.
 * **Kings Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-kings) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-kings)
+* **Kirucoupage Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-kirucoupage) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-kirucoupage)
 * **Linux Libertine Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-linux-libertine) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-linux-libertine)
