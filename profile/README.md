@@ -587,6 +587,9 @@ public to use.
 * **Kawoszeh Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-kawoszeh) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-kawoszeh)
+* **Kings Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-kings) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-kings)
 * **Linux Libertine Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-linux-libertine) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-linux-libertine)
