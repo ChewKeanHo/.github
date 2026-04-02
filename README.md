@@ -569,6 +569,9 @@ public to use.
 * **Interlope Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-interlope) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-interlope)
+* **January Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-january) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-january)
 * **Jgs Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-jgs) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-jgs)
