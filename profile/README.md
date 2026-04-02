@@ -593,6 +593,9 @@ public to use.
 * **Kirucoupage Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-kirucoupage) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-kirucoupage)
+* **Kiwi Maru Font** - *a re-distributed OFL-licensed Japanese with Latin & Greek font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-kiwi-maru) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-kiwi-maru)
 * **Linux Libertine Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-linux-libertine) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-linux-libertine)
