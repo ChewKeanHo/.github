@@ -610,6 +610,9 @@ public to use.
 * **Laser Flip Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-laser-flip) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-laser-flip)
+* **Lavishly Yours Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lavishly-yours) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lavishly-yours)
 * **Linux Libertine Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-linux-libertine) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-linux-libertine)
