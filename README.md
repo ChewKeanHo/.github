@@ -599,6 +599,10 @@ public to use.
 * **Kleymissky Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-kleymissky) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-kleymissky)
+* **KN Maiyuan Font** - *a re-distributed OFL-licensed Chinese with Cyrillic,
+  Latin, Greek, and Japanese supported font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-kn-maiyuan) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-kn-maiyuan)
 * **Linux Libertine Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-linux-libertine) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-linux-libertine)
