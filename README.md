@@ -607,6 +607,9 @@ public to use.
   Latin, Greek, and Japanese supported font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-kn-yuanmo) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-kn-yuanmo)
+* **Laser Flip Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-laser-flip) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-laser-flip)
 * **Linux Libertine Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-linux-libertine) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-linux-libertine)
