@@ -619,6 +619,9 @@ public to use.
 * **Layn Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-layn) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-layn)
+* **Licorice Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-licorice) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-licorice)
 * **Linux Libertine Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-linux-libertine) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-linux-libertine)
