@@ -637,6 +637,9 @@ public to use.
 * **Lovers Quarrel Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lovers-quarrel) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lovers-quarrel)
+* **LibertineSuper Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-libertine-super) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-libertine-super)
 * **Mess Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-mess) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-mess)
