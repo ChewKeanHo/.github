@@ -644,6 +644,10 @@ public to use.
   Latin with Cyrillic and Greek supported font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-amour) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-amour)
+* **LyonsType's Archive (`LT Archive`) Font** - *a re-distributed OFL-licensed
+  Latin with Cyrillic and Greek supported font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-archive) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-archive)
 * **LyonsType's Avocado (`LT Avocado`) Font** - *a re-distributed OFL-licensed
   Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-avocado) |
