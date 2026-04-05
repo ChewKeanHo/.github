@@ -24,7 +24,7 @@ Cheers & let's connect!
 [![Codeberg](/.internals/buttons/codeberg-280x60.svg)](https://codeberg.org/chewkeanho)
 [![GitHub](/.internals/buttons/github-280x60.svg)](https://github.com/ChewKeanHo)
 [![LinkedIn](/.internals/buttons/linkedin-280x60.svg)](https://www.linkedin.com/in/hollowaykeanho)
-[![Mastodon Online](/.internals/buttons/mastodon-online-280x60.svg)](https://mastodon.online/@hollowaykeanho)
+<a rel='me nofollow noopener' href='https://mastodon.online/@hollowaykeanho'>![Mastodon Online](/.internals/buttons/mastodon-online-280x60.svg)</a>
 [![OIN-chewkeanho](/.internals/buttons/oin-chewkeanho-280x60.svg)](https://www.openinventionnetwork.com/community-directory-alphabetical/)
 [![OIN-hollowaykeanho](/.internals/buttons/oin-hollowaykeanho-280x60.svg)](https://www.openinventionnetwork.com/community-directory-alphabetical/)
 [![ORCID](/.internals/buttons/orcid-280x60.svg)](https://orcid.org/0000-0003-4202-4863)
