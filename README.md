@@ -664,6 +664,10 @@ public to use.
   Latin with Cyrillic supported font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-blabber) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-blabber)
+* **LyonsType's Blindfold (`LT Blindfold`) Font** - *a re-distributed
+  OFL-licensed Latin with Cyrillic supported font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-blindfold) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-blindfold)
 * **Mess Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-mess) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-mess)
