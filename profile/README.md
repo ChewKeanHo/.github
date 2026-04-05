@@ -684,6 +684,10 @@ public to use.
   OFL-licensed Latin with Cyrillic supported font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-cosmetic) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-cosmetic)
+* **LyonsType's Cowboy (`LT Cowboy`) Font** - *a re-distributed
+  OFL-licensed Latin with Cyrillic supported font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-cowboy) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-cowboy)
 * **Mess Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-mess) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-mess)
