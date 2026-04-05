@@ -700,6 +700,10 @@ public to use.
   OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-delilah) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-delilah)
+* **LyonsType's Easter (`LT Easter`) Font** - *a re-distributed
+  OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-easter) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-easter)
 * **Mess Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-mess) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-mess)
