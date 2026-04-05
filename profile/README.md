@@ -692,6 +692,10 @@ public to use.
   OFL-licensed Latin with Cyrillic supported font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-crewmate) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-crewmate)
+* **LyonsType's Crow (`LT Crow`) Font** - *a re-distributed
+  OFL-licensed Latin with Cyrillic supported font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-crow) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-crow)
 * **Mess Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-mess) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-mess)
