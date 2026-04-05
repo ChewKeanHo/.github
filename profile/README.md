@@ -676,6 +676,10 @@ public to use.
   OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-coffee) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-coffee)
+* **LyonsType's Conlang (`LT Conlang`) Font** - *a re-distributed
+  OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-conlang) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-conlang)
 * **Mess Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-mess) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-mess)
