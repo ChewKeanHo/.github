@@ -696,6 +696,10 @@ public to use.
   OFL-licensed Latin with Cyrillic supported font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-crow) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-crow)
+* **LyonsType's Delilah (`LT Delilah`) Font** - *a re-distributed
+  OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-delilah) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-delilah)
 * **Mess Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-mess) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-mess)
