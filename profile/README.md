@@ -704,6 +704,10 @@ public to use.
   OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-easter) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-easter)
+* **LyonsType's Effervescent (`LT Effervescent`) Font** - *a re-distributed
+  OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-effervescent) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-effervescent)
 * **Mess Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-mess) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-mess)
