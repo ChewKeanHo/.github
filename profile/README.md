@@ -660,6 +660,10 @@ public to use.
   Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-beverage) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-beverage)
+* **LyonsType's Blabber (`LT Blabber`) Font** - *a re-distributed OFL-licensed
+  Latin with Cyrillic supported font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-blabber) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-blabber)
 * **Mess Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-mess) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-mess)
