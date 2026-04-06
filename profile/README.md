@@ -739,6 +739,10 @@ public to use.
   OFL-licensed Latin with Cyrillic and Greek supported font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-humor) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-humor)
+* **LyonsType's Icon (`LT Icon`) Font** - *a re-distributed OFL-licensed Latin
+  font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-icon) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-icon)
 * **Mess Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-mess) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-mess)
