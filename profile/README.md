@@ -755,6 +755,10 @@ public to use.
   OFL-licensed Latin with Cyrillic and Greek supported font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-karaoke) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-karaoke)
+* **LyonsType's Lemon (`LT Lemon`) Font** - *a re-distributed OFL-licensed Latin
+  font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-lemon) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-lemon)
 * **Mess Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-mess) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-mess)
