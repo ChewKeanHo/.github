@@ -759,6 +759,10 @@ public to use.
   font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-lemon) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-lemon)
+* **LyonsType's Makeup (`LT Makeup`) Font** - *a re-distributed OFL-licensed
+  Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-makeup) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-makeup)
 * **Mess Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-mess) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-mess)
