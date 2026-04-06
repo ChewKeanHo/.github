@@ -743,6 +743,10 @@ public to use.
   font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-icon) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-icon)
+* **LyonsType's Institute (`LT Institute`) Font** - *a re-distributed
+  OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-institute) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-institute)
 * **Mess Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-mess) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-mess)
