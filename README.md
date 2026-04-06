@@ -716,6 +716,10 @@ public to use.
   OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-essay) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-essay)
+* **LyonsType's Fuzz (`LT Fuzz`) Font** - *a re-distributed OFL-licensed Latin
+  with Cyrillic supported font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-fuzz) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-fuzz)
 * **Mess Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-mess) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-mess)
