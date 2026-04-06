@@ -747,6 +747,10 @@ public to use.
   OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-institute) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-institute)
+* **LyonsType's Kai (`LT Kai`) Font** - *a re-distributed
+  OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-kai) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-kai)
 * **Mess Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-mess) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-mess)
