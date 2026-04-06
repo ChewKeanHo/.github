@@ -640,6 +640,9 @@ public to use.
 * **LibertineSuper Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-libertine-super) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-libertine-super)
+* **Lucien Schoenschriftv CAT Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lucien-schoenschriftv-cat) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lucien-schoenschriftv-cat)
 * **LyonsType's Amour (`LT Amour`) Font** - *a re-distributed OFL-licensed
   Latin with Cyrillic and Greek supported font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-amour) |
