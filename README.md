@@ -791,6 +791,10 @@ public to use.
   Latin with Cyrillic and Greek supported font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-remark) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-remark)
+* **LyonsType's Renovate (`LT Renovate`) Font** - *a re-distributed OFL-licensed
+  Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-renovate) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-renovate)
 * **Mess Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-mess) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-mess)
