@@ -783,6 +783,10 @@ public to use.
   Latin with Cyrillic supported font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-panneaux) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-panneaux)
+* **LyonsType's Railway (`LT Railway`) Font** - *a re-distributed OFL-licensed
+  Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-railway) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-railway)
 * **Mess Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-mess) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-mess)
