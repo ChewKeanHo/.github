@@ -787,6 +787,10 @@ public to use.
   Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-railway) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-railway)
+* **LyonsType's Remark (`LT Remark`) Font** - *a re-distributed OFL-licensed
+  Latin with Cyrillic and Greek supported font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-remark) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-remark)
 * **Mess Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-mess) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-mess)
