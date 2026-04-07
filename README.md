@@ -799,6 +799,10 @@ public to use.
   Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-saeada) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-saeada)
+* **LyonsType's Sclera (`LT Sclera`) Font** - *a re-distributed OFL-licensed
+  Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-sclera) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-sclera)
 * **Mess Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-mess) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-mess)
