@@ -767,6 +767,10 @@ public to use.
   Latin with Cyrillic supported font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-melody) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-melody)
+* **LyonsType's Museum (`LT Museum`) Font** - *a re-distributed OFL-licensed
+  Latin with Cyrillic supported font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-museum) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-museum)
 * **Mess Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-mess) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-mess)
