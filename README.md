@@ -795,6 +795,10 @@ public to use.
   Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-renovate) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-renovate)
+* **LyonsType's Saeada (`LT Saeada`) Font** - *a re-distributed OFL-licensed
+  Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-saeada) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-saeada)
 * **Mess Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-mess) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-mess)
