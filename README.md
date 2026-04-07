@@ -771,6 +771,10 @@ public to use.
   Latin with Cyrillic supported font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-museum) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-museum)
+* **LyonsType's Oval (`LT Oval`) Font** - *a re-distributed OFL-licensed Latin
+  font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-oval) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-oval)
 * **Mess Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-mess) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-mess)
