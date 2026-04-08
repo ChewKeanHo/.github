@@ -820,23 +820,27 @@ public to use.
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-spaz) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-spaz)
 * **LyonsType's Stopwatch (`LT Stopwatch`) Font** - *a re-distributed
-  OFL-licensed Latin font with Cyrillic, Greek, Hebrews, and Japanese Katakana
+  OFL-licensed Latin with Cyrillic, Greek, Hebrews, and Japanese Katakana
   supported font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-stopwatch) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-stopwatch)
 * **LyonsType's Superior (`LT Superior`) Font** - *a re-distributed
-  OFL-licensed Latin font with Armenian, Arabic, Cyrillic, Devanagari, Greek,
+  OFL-licensed Latin with Armenian, Arabic, Cyrillic, Devanagari, Greek,
   Hebrews, Thai, and Tamil supported font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-superior) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-superior)
 * **LyonsType's Superior Mono (`LT Superior Mono`) Font** - *a re-distributed
-  OFL-licensed Latin font with Cyrillic, and Greek supported font.* |
+  OFL-licensed Latin with Cyrillic, and Greek supported font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-superior-mono) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-superior-mono)
 * **LyonsType's Superior Serif (`LT Superior Serif`) Font** - *a re-distributed
-  OFL-licensed Latin font with Cyrillic, and Greek supported font.* |
+  OFL-licensed Latin with Cyrillic, and Greek supported font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-superior-serif) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-superior-serif)
+* **LyonsType's Turbo (`LT Turbo`) Font** - *a re-distributed OFL-licensed Latin
+  font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-turbo) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-turbo)
 * **Mess Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-mess) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-mess)
