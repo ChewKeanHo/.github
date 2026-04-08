@@ -829,6 +829,10 @@ public to use.
   Hebrews, Thai, and Tamil supported font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-superior) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-superior)
+* **LyonsType's Superior Mono (`LT Superior Mono`) Font** - *a re-distributed
+  OFL-licensed Latin font with Cyrillic, and Greek supported font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-superior-mono) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-superior-mono)
 * **Mess Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-mess) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-mess)
