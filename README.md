@@ -819,6 +819,11 @@ public to use.
   Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-spaz) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-spaz)
+* **LyonsType's Stopwatch (`LT Stopwatch`) Font** - *a re-distributed
+  OFL-licensed Latin font with Cyrillic, Greek, Hebrews, and Japanese Katakana
+  supported font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-stopwatch) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-stopwatch)
 * **Mess Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-mess) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-mess)
