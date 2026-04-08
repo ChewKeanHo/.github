@@ -824,6 +824,11 @@ public to use.
   supported font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-stopwatch) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-stopwatch)
+* **LyonsType's Superior (`LT Superior`) Font** - *a re-distributed
+  OFL-licensed Latin font with Armenian, Arabic, Cyrillic, Devanagari, Greek,
+  Hebrews, Thai, and Tamil supported font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-superior) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-superior)
 * **Mess Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-mess) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-mess)
