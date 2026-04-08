@@ -815,6 +815,10 @@ public to use.
   Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-soul) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-soul)
+* **LyonsType's Spaz (`LT Spaz`) Font** - *a re-distributed OFL-licensed
+  Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-spaz) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-spaz)
 * **Mess Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-mess) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-mess)
