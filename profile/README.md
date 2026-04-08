@@ -807,6 +807,10 @@ public to use.
   Latin with Cyrillic and Greek supported font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-shield) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-shield)
+* **LyonsType's Sonoma (`LT Sonoma`) Font** - *a re-distributed OFL-licensed
+  Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-sonoma) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-sonoma)
 * **Mess Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-mess) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-mess)
