@@ -811,6 +811,10 @@ public to use.
   Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-sonoma) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-sonoma)
+* **LyonsType's Soul (`LT Soul`) Font** - *a re-distributed OFL-licensed
+  Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-soul) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-soul)
 * **Mess Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-mess) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-mess)
