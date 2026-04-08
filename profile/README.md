@@ -833,6 +833,10 @@ public to use.
   OFL-licensed Latin font with Cyrillic, and Greek supported font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-superior-mono) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-superior-mono)
+* **LyonsType's Superior Serif (`LT Superior Serif`) Font** - *a re-distributed
+  OFL-licensed Latin font with Cyrillic, and Greek supported font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-superior-serif) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-superior-serif)
 * **Mess Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-mess) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-mess)
