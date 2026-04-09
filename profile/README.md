@@ -875,6 +875,9 @@ public to use.
 * **Madimi One Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-madimi-one) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-madimi-one)
+* **Mala Tempora Currunt Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-mala-tempora-currunt) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-mala-tempora-currunt)
 * **Mess Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-mess) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-mess)
