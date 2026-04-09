@@ -646,6 +646,9 @@ public to use.
 * **Lucius Cipher Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lucius-cipher) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lucius-cipher)
+* **Lumierepolis Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lumierepolis) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lumierepolis)
 * **LyonsType's Amour (`LT Amour`) Font** - *a re-distributed OFL-licensed
   Latin with Cyrillic and Greek supported font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-amour) |
