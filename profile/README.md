@@ -872,6 +872,9 @@ public to use.
   font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-yoyo) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-yoyo)
+* **Madimi One Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-madimi-one) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-madimi-one)
 * **Mess Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-mess) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-mess)
