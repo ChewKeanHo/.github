@@ -649,6 +649,9 @@ public to use.
 * **Lumierepolis Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lumierepolis) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lumierepolis)
+* **LUNNA Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lunna) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lunna)
 * **LyonsType's Amour (`LT Amour`) Font** - *a re-distributed OFL-licensed
   Latin with Cyrillic and Greek supported font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-amour) |
