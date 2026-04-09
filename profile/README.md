@@ -849,6 +849,10 @@ public to use.
   OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-veritas-mono) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-veritas-mono)
+* **LyonsType's Wave (`LT Wave`) Font** - *a re-distributed OFL-licensed Latin
+  with Cyrillic supported font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-wave) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-wave)
 * **Mess Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-mess) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-mess)
