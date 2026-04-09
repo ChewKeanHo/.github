@@ -643,6 +643,9 @@ public to use.
 * **Lucien Schoenschriftv CAT Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lucien-schoenschriftv-cat) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lucien-schoenschriftv-cat)
+* **Lucius Cipher Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lucius-cipher) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lucius-cipher)
 * **LyonsType's Amour (`LT Amour`) Font** - *a re-distributed OFL-licensed
   Latin with Cyrillic and Greek supported font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-amour) |
