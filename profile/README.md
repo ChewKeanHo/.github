@@ -655,6 +655,9 @@ public to use.
 * **Luxurious Script Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-luxurious-script) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-luxurious-script)
+* **Luxurious Roman Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-luxurious-roman) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-luxurious-roman)
 * **LyonsType's Amour (`LT Amour`) Font** - *a re-distributed OFL-licensed
   Latin with Cyrillic and Greek supported font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-amour) |
