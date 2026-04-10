@@ -919,6 +919,9 @@ public to use.
 * **MonteCarlo Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-montecarlo) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-montecarlo)
+* **MoonGloss Display Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-moongloss-display) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-moongloss-display)
 * **Octahedron Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-octahedron) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-octahedron)
