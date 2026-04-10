@@ -912,6 +912,10 @@ public to use.
 * **Monólita Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-monolita) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-monolita)
+* **Monomaniac One Font** - *a re-distributed OFL-licensed Japanese with Latin
+  supported font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-monomaniac-one) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-monomaniac-one)
 * **Octahedron Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-octahedron) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-octahedron)
