@@ -878,6 +878,9 @@ public to use.
 * **Mala Tempora Currunt Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-mala-tempora-currunt) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-mala-tempora-currunt)
+* **Marchive Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-marchive) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-marchive)
 * **Mess Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-mess) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-mess)
