@@ -872,30 +872,34 @@ public to use.
   font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lt-yoyo) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lt-yoyo)
-* **Madimi One Font** - *a re-distributed OFL-licensed font.* |
+* **Madimi One Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-madimi-one) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-madimi-one)
-* **Mala Tempora Currunt Font** - *a re-distributed OFL-licensed font.* |
+* **Mala Tempora Currunt Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-mala-tempora-currunt) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-mala-tempora-currunt)
-* **Marchive Font** - *a re-distributed OFL-licensed font.* |
+* **Marchive Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-marchive) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-marchive)
-* **Medio Font** - *a re-distributed OFL-licensed font.* |
+* **Medio Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-medio) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-medio)
-* **Melete Font** - *a re-distributed OFL-licensed font.* |
+* **Melete Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-melete) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-melete)
-* **Meow Script Font** - *a re-distributed OFL-licensed font.* |
+* **Meow Script Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-meow-script) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-meow-script)
-* **Mesoface Font** - *a re-distributed OFL-licensed font.* |
+* **Mesoface Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-mesoface) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-mesoface)
 * **Mess Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-mess) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-mess)
+* **Miama Nueva Font** - *a re-distributed OFL-licensed Latin with Cyrillic
+  supported font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-miama-nueva) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-miama-nueva)
 * **Octahedron Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-octahedron) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-octahedron)
