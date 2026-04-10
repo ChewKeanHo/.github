@@ -922,6 +922,9 @@ public to use.
 * **MoonGloss Display Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-moongloss-display) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-moongloss-display)
+* **Morado Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-morado) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-morado)
 * **Octahedron Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-octahedron) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-octahedron)
