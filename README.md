@@ -900,6 +900,9 @@ public to use.
   supported font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-miama-nueva) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-miama-nueva)
+* **Modeschrift Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-modeschrift) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-modeschrift)
 * **Octahedron Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-octahedron) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-octahedron)
