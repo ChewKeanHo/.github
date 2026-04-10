@@ -890,6 +890,9 @@ public to use.
 * **Meow Script Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-meow-script) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-meow-script)
+* **Mesoface Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-mesoface) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-mesoface)
 * **Mess Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-mess) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-mess)
