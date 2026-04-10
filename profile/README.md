@@ -909,6 +909,9 @@ public to use.
 * **Modulo Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-modulo) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-modulo)
+* **Monólita Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-monolita) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-monolita)
 * **Octahedron Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-octahedron) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-octahedron)
