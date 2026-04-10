@@ -887,6 +887,9 @@ public to use.
 * **Melete Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-melete) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-melete)
+* **Meow Script Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-meow-script) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-meow-script)
 * **Mess Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-mess) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-mess)
