@@ -881,6 +881,9 @@ public to use.
 * **Marchive Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-marchive) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-marchive)
+* **Medio Font** - *a re-distributed OFL-licensed font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-medio) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-medio)
 * **Mess Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-mess) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-mess)
