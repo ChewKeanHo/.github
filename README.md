@@ -962,6 +962,10 @@ public to use.
 * **Novella Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-novella) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-novella)
+* **NeverMind Font** - *a re-distributed OFL-licensed Latin with Cyrillic and
+  Greek supported font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-nevermind) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-nevermind)
 * **Octahedron Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-octahedron) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-octahedron)
