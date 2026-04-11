@@ -247,6 +247,9 @@ public to use.
 * **Amarna Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-amarna) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-amarna)
+* **Ancestral Recall Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-ancestral-recall) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-ancestral-recall)
 * **Anvers Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-anvers) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-anvers)
