@@ -956,6 +956,9 @@ public to use.
   supported font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-new-tegomin) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-new-tegomin)
+* **Nose Transport Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-nose-transport) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-nose-transport)
 * **Octahedron Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-octahedron) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-octahedron)
