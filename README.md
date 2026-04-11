@@ -925,6 +925,9 @@ public to use.
 * **Morado Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-morado) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-morado)
+* **Ms Madi Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-ms-madi) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-ms-madi)
 * **Octahedron Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-octahedron) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-octahedron)
