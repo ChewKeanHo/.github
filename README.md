@@ -935,6 +935,9 @@ public to use.
 * **Murs Gothic Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-murs-gothic) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-murs-gothic)
+* **My Soul Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-my-soul) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-my-soul)
 * **Octahedron Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-octahedron) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-octahedron)
