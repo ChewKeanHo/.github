@@ -928,6 +928,10 @@ public to use.
 * **Ms Madi Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-ms-madi) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-ms-madi)
+* **Mulat Awash Font** - *a re-distributed OFL-licensed Ge'ez Ethiopic with
+  Latin supported font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-mulat-awash) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-mulat-awash)
 * **Octahedron Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-octahedron) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-octahedron)
