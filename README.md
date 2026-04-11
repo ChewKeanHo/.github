@@ -941,6 +941,9 @@ public to use.
 * **My Soul Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-my-soul) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-my-soul)
+* **Nemoy Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-nemoy) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-nemoy)
 * **Octahedron Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-octahedron) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-octahedron)
