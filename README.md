@@ -947,6 +947,11 @@ public to use.
 * **Neon Sans Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-neon-sans) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-neon-sans)
+* **Neutral Sans Font** - *a re-distributed OFL-licensed Latin with Arabic,
+  Balinese, Batak, Buginese/Lontara, Javanese, Sundanese, and Japanese supported
+  font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-neutral-sans) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-neutral-sans)
 * **Octahedron Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-octahedron) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-octahedron)
