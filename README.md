@@ -952,6 +952,10 @@ public to use.
   font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-neutral-sans) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-neutral-sans)
+* **New Tegomin Font** - *a re-distributed OFL-licensed Japanese with Latin
+  supported font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-new-tegomin) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-new-tegomin)
 * **Octahedron Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-octahedron) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-octahedron)
