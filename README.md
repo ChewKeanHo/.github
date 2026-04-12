@@ -975,6 +975,9 @@ public to use.
 * **Onest Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-onest) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-onest)
+* **Oscilla Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-oscilla) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-oscilla)
 * **Steps-Mono Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-steps-mono) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-steps-mono)
