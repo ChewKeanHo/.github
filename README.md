@@ -981,6 +981,9 @@ public to use.
 * **Passion Conflict Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-passion-conflict) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-passion-conflict)
+* **Petemoss Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-petemoss) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-petemoss)
 * **Steps-Mono Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-steps-mono) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-steps-mono)
