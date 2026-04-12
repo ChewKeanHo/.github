@@ -978,6 +978,9 @@ public to use.
 * **Oscilla Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-oscilla) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-oscilla)
+* **Passion Conflict Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-passion-conflict) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-passion-conflict)
 * **Steps-Mono Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-steps-mono) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-steps-mono)
