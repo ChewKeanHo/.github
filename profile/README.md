@@ -972,6 +972,9 @@ public to use.
 * **Odstemplik Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-odstemplik) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-odstemplik)
+* **Onest Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-onest) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-onest)
 * **Steps-Mono Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-steps-mono) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-steps-mono)
