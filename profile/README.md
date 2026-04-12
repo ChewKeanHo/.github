@@ -996,6 +996,9 @@ public to use.
 * **Poltawski Nowy Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-poltawski-nowy) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-poltawski-nowy)
+* **Poseidon Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-poseidon) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-poseidon)
 * **Steps-Mono Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-steps-mono) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-steps-mono)
