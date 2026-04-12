@@ -993,6 +993,9 @@ public to use.
 * **Pixeloid Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-pixeloid) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-pixeloid)
+* **Poltawski Nowy Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-poltawski-nowy) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-poltawski-nowy)
 * **Steps-Mono Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-steps-mono) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-steps-mono)
