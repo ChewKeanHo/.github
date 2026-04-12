@@ -987,6 +987,9 @@ public to use.
 * **Petite Mort Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-petite-mort) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-petite-mort)
+* **Pinyon Script Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-pinyon-script) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-pinyon-script)
 * **Steps-Mono Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-steps-mono) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-steps-mono)
