@@ -1026,6 +1026,10 @@ public to use.
   Latin, Chinese, and Greek supported font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-rampant-one) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-rampant-one)
+* **Reggae One Font** - *a re-distributed OFL-licensed Japanese with Cyrillic,
+  Latin, Chinese, and Greek supported font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-reggae-one) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-reggae-one)
 * **Steps-Mono Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-steps-mono) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-steps-mono)
