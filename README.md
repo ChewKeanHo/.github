@@ -1012,6 +1012,9 @@ public to use.
 * **Puppies Play Font** - *a re-distributed OFL-licensed Latin supported font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-puppies-play) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-puppies-play)
+* **Qaz Font** - *a re-distributed OFL-licensed Latin supported font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-qaz) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-qaz)
 * **Steps-Mono Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-steps-mono) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-steps-mono)
