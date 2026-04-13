@@ -1006,6 +1006,9 @@ public to use.
 * **PROJECT SPACE Font** - *a re-distributed OFL-licensed Latin supported font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-project-space) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-project-space)
+* **Pulstar Font** - *a re-distributed OFL-licensed Latin supported font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-pulstar) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-pulstar)
 * **Steps-Mono Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-steps-mono) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-steps-mono)
