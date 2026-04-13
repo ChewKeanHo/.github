@@ -1009,6 +1009,9 @@ public to use.
 * **Pulstar Font** - *a re-distributed OFL-licensed Latin supported font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-pulstar) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-pulstar)
+* **Puppies Play Font** - *a re-distributed OFL-licensed Latin supported font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-puppies-play) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-puppies-play)
 * **Steps-Mono Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-steps-mono) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-steps-mono)
