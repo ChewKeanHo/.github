@@ -1003,6 +1003,9 @@ public to use.
   supported font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-potta-one) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-potta-one)
+* **PROJECT SPACE Font** - *a re-distributed OFL-licensed Latin supported font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-project-space) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-project-space)
 * **Steps-Mono Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-steps-mono) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-steps-mono)
