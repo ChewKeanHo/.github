@@ -1018,6 +1018,10 @@ public to use.
 * **Qualitype Font Suite** - *a re-distributed OFL-licensed Latin font suite.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-qualitype) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-qualitype)
+* **Quantum Font** - *a re-distributed OFL-licensed Latin with Cyrillic and
+  Greek supported font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-quantum) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-quantum)
 * **Steps-Mono Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-steps-mono) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-steps-mono)
