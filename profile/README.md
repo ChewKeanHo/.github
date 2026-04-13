@@ -999,6 +999,10 @@ public to use.
 * **Poseidon Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-poseidon) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-poseidon)
+* **Potta One Font** - *a re-distributed OFL-licensed Japanese with Latin
+  supported font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-potta-one) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-potta-one)
 * **Steps-Mono Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-steps-mono) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-steps-mono)
