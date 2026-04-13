@@ -1022,6 +1022,10 @@ public to use.
   Greek supported font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-quantum) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-quantum)
+* **Rampant One Font** - *a re-distributed OFL-licensed Japanese with Cyrillic,
+  Latin, Chinese, and Greek supported font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-rampant-one) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-rampant-one)
 * **Steps-Mono Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-steps-mono) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-steps-mono)
