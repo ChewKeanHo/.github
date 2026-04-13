@@ -1003,18 +1003,21 @@ public to use.
   supported font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-potta-one) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-potta-one)
-* **PROJECT SPACE Font** - *a re-distributed OFL-licensed Latin supported font.* |
+* **PROJECT SPACE Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-project-space) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-project-space)
-* **Pulstar Font** - *a re-distributed OFL-licensed Latin supported font.* |
+* **Pulstar Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-pulstar) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-pulstar)
-* **Puppies Play Font** - *a re-distributed OFL-licensed Latin supported font.* |
+* **Puppies Play Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-puppies-play) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-puppies-play)
-* **Qaz Font** - *a re-distributed OFL-licensed Latin supported font.* |
+* **Qaz Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-qaz) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-qaz)
+* **Qualitype Font Suite** - *a re-distributed OFL-licensed Latin font suite.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-qualitype) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-qualitype)
 * **Steps-Mono Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-steps-mono) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-steps-mono)
