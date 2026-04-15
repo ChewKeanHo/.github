@@ -1050,6 +1050,9 @@ public to use.
   supported font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-santello) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-santello)
+* **Sassy Frass Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-sassy-frass) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-sassy-frass)
 * **Steps-Mono Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-steps-mono) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-steps-mono)
