@@ -1056,6 +1056,9 @@ public to use.
 * **SCORN Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-scorn) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-scorn)
+* **Sedan Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-sedan) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-sedan)
 * **Skate Blade Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-skate-blade) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-skate-blade)
