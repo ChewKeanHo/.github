@@ -1043,6 +1043,9 @@ public to use.
 * **Rundkursiv Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-rundkursiv) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-rundkursiv)
+* **Russolo Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-russolo) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-russolo)
 * **Steps-Mono Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-steps-mono) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-steps-mono)
