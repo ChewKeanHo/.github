@@ -1033,6 +1033,9 @@ public to use.
 * **Ringus Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-ringus) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-ringus)
+* **Risaltyp Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-risaltyp) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-risaltyp)
 * **Steps-Mono Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-steps-mono) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-steps-mono)
