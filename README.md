@@ -1053,6 +1053,9 @@ public to use.
 * **Sassy Frass Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-sassy-frass) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-sassy-frass)
+* **SCORN Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-scorn) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-scorn)
 * **Skate Blade Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-skate-blade) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-skate-blade)
