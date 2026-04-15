@@ -1059,6 +1059,9 @@ public to use.
 * **Sedan Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-sedan) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-sedan)
+* **Shalimar Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-shalimar) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-shalimar)
 * **Skate Blade Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-skate-blade) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-skate-blade)
