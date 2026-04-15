@@ -1053,6 +1053,9 @@ public to use.
 * **Sassy Frass Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-sassy-frass) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-sassy-frass)
+* **Skate Blade Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-skate-blade) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-skate-blade)
 * **Steps-Mono Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-steps-mono) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-steps-mono)
