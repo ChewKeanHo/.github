@@ -1040,6 +1040,9 @@ public to use.
   and Greek supported font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-rocknroll-one) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-rocknroll-one)
+* **Rundkursiv Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-rundkursiv) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-rundkursiv)
 * **Steps-Mono Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-steps-mono) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-steps-mono)
