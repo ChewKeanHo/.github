@@ -1081,6 +1081,9 @@ public to use.
 * **Smooch Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-smooch) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-smooch)
+* **SN Pro Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-sn-pro) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-sn-pro)
 * **Steps-Mono Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-steps-mono) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-steps-mono)
