@@ -1096,6 +1096,9 @@ public to use.
 * **Style Script Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-style-script) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-style-script)
+* **Symphonie CAT Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-symphonie-cat) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-symphonie-cat)
 * **Terminal Grotesque Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-terminal-grotesque) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-terminal-grotesque)
