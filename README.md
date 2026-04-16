@@ -1111,6 +1111,9 @@ public to use.
 * **TMT Caffeine Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-tmt-caffeine) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-tmt-caffeine)
+* **Touchscreen Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-touchscreen) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-touchscreen)
 * **Trickster Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-trickster) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-trickster)
