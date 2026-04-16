@@ -1068,6 +1068,9 @@ public to use.
 * **Simplex Sans Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-simplex-sans) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-simplex-sans)
+* **Sirius Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-sirius) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-sirius)
 * **Skate Blade Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-skate-blade) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-skate-blade)
