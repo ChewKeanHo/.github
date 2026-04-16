@@ -1093,6 +1093,9 @@ public to use.
 * **Story Script Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-story-script) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-story-script)
+* **Style Script Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-style-script) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-style-script)
 * **Terminal Grotesque Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-terminal-grotesque) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-terminal-grotesque)
