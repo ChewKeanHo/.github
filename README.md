@@ -1114,6 +1114,10 @@ public to use.
 * **Touchscreen Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-touchscreen) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-touchscreen)
+* **Train One Font** - *a re-distributed OFL-licensed Japanese with Cyrillic,
+  Latin, and Greek supported font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-train-one) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-train-one)
 * **Trickster Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-trickster) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-trickster)
