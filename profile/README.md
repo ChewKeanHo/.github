@@ -1078,6 +1078,9 @@ public to use.
   supported font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-slackside-one) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-slackside-one)
+* **Smooch Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-smooch) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-smooch)
 * **Steps-Mono Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-steps-mono) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-steps-mono)
