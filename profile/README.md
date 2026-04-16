@@ -1074,6 +1074,10 @@ public to use.
 * **Skate Blade Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-skate-blade) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-skate-blade)
+* **Slackside One Font** - *a re-distributed OFL-licensed Japanese with Latin
+  supported font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-slackside-one) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-slackside-one)
 * **Steps-Mono Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-steps-mono) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-steps-mono)
