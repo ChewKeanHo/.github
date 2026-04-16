@@ -1127,6 +1127,10 @@ public to use.
 * **Tsing Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-tsing) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-tsing)
+* **Tsukimi Rounded Font** - *a re-distributed OFL-licensed Japanese with Latin
+  supported font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-tsukimi-rounded) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-tsukimi-rounded)
 * **Ziffera Veneta Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-ziffera-veneta) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-ziffera-veneta)
