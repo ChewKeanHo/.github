@@ -1090,6 +1090,9 @@ public to use.
 * **Steps-Mono Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-steps-mono) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-steps-mono)
+* **Story Script Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-story-script) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-story-script)
 * **Terminal Grotesque Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-terminal-grotesque) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-terminal-grotesque)
