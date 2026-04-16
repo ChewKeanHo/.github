@@ -1108,6 +1108,9 @@ public to use.
 * **Tiny 5x3 Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-tiny-5x3) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-tiny-5x3)
+* **TMT Caffeine Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-tmt-caffeine) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-tmt-caffeine)
 * **Trickster Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-trickster) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-trickster)
