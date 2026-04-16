@@ -1124,6 +1124,9 @@ public to use.
 * **TroubleSide Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-troubleside) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-troubleside)
+* **Tsing Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-tsing) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-tsing)
 * **Ziffera Veneta Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-ziffera-veneta) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-ziffera-veneta)
