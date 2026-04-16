@@ -1084,6 +1084,9 @@ public to use.
 * **SN Pro Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-sn-pro) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-sn-pro)
+* **Splash Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-splash) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-splash)
 * **Steps-Mono Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-steps-mono) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-steps-mono)
