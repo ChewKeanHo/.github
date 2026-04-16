@@ -1138,6 +1138,9 @@ public to use.
 * **Updock Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-updock) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-updock)
+* **Urging Osmosis Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-urging-osmosis) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-urging-osmosis)
 * **Ziffera Veneta Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-ziffera-veneta) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-ziffera-veneta)
