@@ -1144,6 +1144,9 @@ public to use.
 * **Verdanto Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-verdanto) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-verdanto)
+* **Water Brush Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-water-brush) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-water-brush)
 * **Ziffera Veneta Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-ziffera-veneta) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-ziffera-veneta)
