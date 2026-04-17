@@ -1153,6 +1153,10 @@ public to use.
 * **WindSong Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-windsong) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-windsong)
+* **X Typewriter Font** - *a re-distributed OFL-licensed Latin with Cyrillic
+  supported font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-x-typewriter) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-x-typewriter)
 * **Ziffera Veneta Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-ziffera-veneta) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-ziffera-veneta)
