@@ -1150,6 +1150,9 @@ public to use.
 * **Whisper Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-whisper) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-whisper)
+* **WindSong Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-windsong) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-windsong)
 * **Ziffera Veneta Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-ziffera-veneta) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-ziffera-veneta)
