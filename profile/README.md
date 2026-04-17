@@ -1161,6 +1161,10 @@ public to use.
   Hebrews, and Greek supported font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-x-typewriter) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-x-typewriter)
+* **「小赖字体」(Xiaolai) Font** - *a re-distributed OFL-licensed Chinese with
+  Cyrillic, Latin, Japanese, and Greek supported font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-xiaolai) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-xiaolai)
 * **Ziffera Veneta Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-ziffera-veneta) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-ziffera-veneta)
