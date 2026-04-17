@@ -622,6 +622,12 @@ public to use.
 * **Layn Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-layn) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-layn)
+* **LibertineSuper Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-libertine-super) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-libertine-super)
+* **Libre Barcode Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-libre-barcode) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-libre-barcode)
 * **Licorice Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-licorice) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-licorice)
@@ -640,9 +646,6 @@ public to use.
 * **Lovers Quarrel Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lovers-quarrel) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lovers-quarrel)
-* **LibertineSuper Font** - *a re-distributed OFL-licensed Latin font.* |
-  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-libertine-super) |
-  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-libertine-super)
 * **Lucien Schoenschriftv CAT Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lucien-schoenschriftv-cat) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lucien-schoenschriftv-cat)
