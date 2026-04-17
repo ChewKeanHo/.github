@@ -1147,6 +1147,9 @@ public to use.
 * **Water Brush Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-water-brush) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-water-brush)
+* **Whisper Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-whisper) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-whisper)
 * **Ziffera Veneta Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-ziffera-veneta) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-ziffera-veneta)
