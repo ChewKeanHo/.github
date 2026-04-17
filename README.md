@@ -1141,6 +1141,9 @@ public to use.
 * **Urging Osmosis Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-urging-osmosis) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-urging-osmosis)
+* **Verdanto Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-verdanto) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-verdanto)
 * **Ziffera Veneta Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-ziffera-veneta) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-ziffera-veneta)
