@@ -959,6 +959,9 @@ public to use.
 * **Nose Transport Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-nose-transport) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-nose-transport)
+* **Nova Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-nova) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-nova)
 * **Novella Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-novella) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-novella)
