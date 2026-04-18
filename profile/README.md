@@ -557,6 +557,9 @@ public to use.
 * **Hyrax Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-hyrax) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-hyrax)
+* **Ibarra Real Nova Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-ibarra-real-nova) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-ibarra-real-nova)
 * **Ictu Oculi Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-ictu-oculi) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-ictu-oculi)
