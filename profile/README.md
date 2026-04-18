@@ -400,6 +400,9 @@ public to use.
 * **Creato Display Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-creato-display) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-creato-display)
+* **Darker Grotesque Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-darker-grotesque) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-darker-grotesque)
 * **Dabir Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-dabir) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-dabir)
