@@ -247,6 +247,9 @@ public to use.
 * **Amarna Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-amarna) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-amarna)
+* **Antic Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-antic) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-antic)
 * **Antic Didone Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-antic-didone) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-antic-didone)
