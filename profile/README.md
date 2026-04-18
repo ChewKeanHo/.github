@@ -578,6 +578,10 @@ public to use.
 * **Jgs Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-jgs) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-jgs)
+* **Jomolhari Font** - *a re-distributed OFL-licensed Tibetan with Latin
+  supported font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-jomolhari) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-jomolhari)
 * **Joscelyn Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-joscelyn) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-joscelyn)
