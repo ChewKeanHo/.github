@@ -687,6 +687,10 @@ public to use.
 * **Lithops Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lithops) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lithops)
+* **Liu Jian Mao Cao (流江毛草) Font** - *a re-distributed OFL-licensed Chinese
+  with Latin supported font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-liu-jian-mao-cao) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-liu-jian-mao-cao)
 * **Lment Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lment) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lment)
