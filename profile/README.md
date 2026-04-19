@@ -286,6 +286,9 @@ public to use.
 * **Benzinova Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-benzinova) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-benzinova)
+* **Bilbo Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-bilbo) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-bilbo)
 * **Bilden Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-bilden) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-bilden)
