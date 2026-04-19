@@ -603,6 +603,9 @@ public to use.
 * **Joscelyn Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-joscelyn) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-joscelyn)
+* **Jost Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-jost) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-jost)
 * **Juliett Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-juliett) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-juliett)
