@@ -1019,6 +1019,9 @@ public to use.
 * **Onest Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-onest) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-onest)
+* **Orbitron Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-orbitron) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-orbitron)
 * **Oscilla Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-oscilla) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-oscilla)
