@@ -681,6 +681,9 @@ public to use.
 * **Lovers Quarrel Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lovers-quarrel) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lovers-quarrel)
+* **Loyal Sans Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-loyal-sans) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-loyal-sans)
 * **Lucien Schoenschriftv CAT Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lucien-schoenschriftv-cat) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lucien-schoenschriftv-cat)
