@@ -526,6 +526,9 @@ public to use.
 * **Grape Nuts Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-grape-nuts) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-grape-nuts)
+* **Great Vibes Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-great-vibes) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-great-vibes)
 * **Grechen Fuemen Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-grechen-fuemen) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-grechen-fuemen)
