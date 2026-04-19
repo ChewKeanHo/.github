@@ -609,6 +609,9 @@ public to use.
 * **Juliett Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-juliett) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-juliett)
+* **Julius Sans One Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-julius-sans-one) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-julius-sans-one)
 * **Karrik Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-karrik) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-karrik)
