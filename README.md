@@ -451,6 +451,9 @@ public to use.
 * **Festive Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-festive) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-festive)
+* **Finger Paint Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-finger-paint) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-finger-paint)
 * **Fleur De Leah Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-fleur-de-leah) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-fleur-de-leah)
