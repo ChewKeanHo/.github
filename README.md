@@ -259,6 +259,9 @@ public to use.
 * **Antic Didone Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-antic-didone) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-antic-didone)
+* **Antic Slab Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-antic-slab) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-antic-slab)
 * **Ancestral Recall Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-ancestral-recall) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-ancestral-recall)
