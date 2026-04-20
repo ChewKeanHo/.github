@@ -941,6 +941,10 @@ public to use.
 * **Marchive Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-marchive) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-marchive)
+* **Ma Shan Zheng (马善政) Font** - *a re-distributed OFL-licensed Chinese
+  with Latin supported font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-ma-shan-zheng) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-ma-shan-zheng)
 * **Medio Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-medio) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-medio)
