@@ -343,6 +343,9 @@ public to use.
 * **Baemin Yeonsung Font** - *a re-distributed OFL-licensed Korean font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-bm-yeonsung) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-bm-yeonsung)
+* **Bruno Ace Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-bruno-ace) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-bruno-ace)
 * **Bubbler One Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-bubbler-one) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-bubbler-one)
