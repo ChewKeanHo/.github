@@ -349,6 +349,9 @@ public to use.
 * **Bubbler One Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-bubbler-one) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-bubbler-one)
+* **Bungee Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-bungee) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-bungee)
 * **C4-Type V.4 Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-c4-type-v4) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-c4-type-v4)
