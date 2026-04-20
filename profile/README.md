@@ -232,6 +232,9 @@ public to use.
 * **Abril Fatface Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-abril-fatface) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-abril-fatface)
+* **Abstante Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-abstante) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-abstante)
 * **Abstractus Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-abstractus) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-abstractus)
