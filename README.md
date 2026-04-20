@@ -235,7 +235,7 @@ public to use.
 * **Abstante Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-abstante) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-abstante)
-* **Abstractus Font** - *a re-distributed OFL-licensed font.* |
+* **Abstractus Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-abstractus) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-abstractus)
 * **Akshar Font** - *a re-distributed OFL-licensed Devanagari font.* |
