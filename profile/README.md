@@ -229,6 +229,9 @@ My work covers both static visuals and dynamic animation whenever applicable.
 Artworks released under free (as in freedom and monetary) licenses for the
 public to use.
 
+* **Abril Fatface Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-abril-fatface) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-abril-fatface)
 * **Abstractus Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-abstractus) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-abstractus)
