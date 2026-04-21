@@ -629,6 +629,9 @@ public to use.
 * **Interlope Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-interlope) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-interlope)
+* **Italiana Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-italiana) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-italiana)
 * **January Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-january) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-january)
