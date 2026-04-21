@@ -475,6 +475,9 @@ public to use.
 * **Fleur De Leah Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-fleur-de-leah) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-fleur-de-leah)
+* **Foldit Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-foldit) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-foldit)
 * **Format_1452 Font** - *a re-distributed OFL-licensed font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-format1452) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-format1452)
