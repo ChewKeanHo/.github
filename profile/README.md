@@ -676,6 +676,9 @@ public to use.
 * **Kleymissky Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-kleymissky) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-kleymissky)
+* **Klingon Font** - *a re-distributed OFL-licensed Klingon font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-klingon) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-klingon)
 * **KN Maiyuan Font** - *a re-distributed OFL-licensed Chinese with Cyrillic,
   Latin, Greek, and Japanese supported font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-kn-maiyuan) |
