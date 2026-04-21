@@ -708,6 +708,9 @@ public to use.
 * **Libre Bodoni Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-libre-bodoni) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-libre-bodoni)
+* **Libre Caslon Display Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-libre-caslon-display) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-libre-caslon-display)
 * **Licorice Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-licorice) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-licorice)
