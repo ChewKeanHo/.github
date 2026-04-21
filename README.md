@@ -611,6 +611,9 @@ public to use.
 * **Ibarra Real Nova Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-ibarra-real-nova) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-ibarra-real-nova)
+* **Iceland Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-iceland) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-iceland)
 * **Ictu Oculi Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-ictu-oculi) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-ictu-oculi)
