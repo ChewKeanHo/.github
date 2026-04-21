@@ -984,6 +984,9 @@ public to use.
 * **Medio Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-medio) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-medio)
+* **Megrim Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-megrim) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-megrim)
 * **Melete Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-melete) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-melete)
