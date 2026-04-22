@@ -1259,12 +1259,15 @@ public to use.
 * **Urging Osmosis Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-urging-osmosis) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-urging-osmosis)
-* **Vidaloka Font** - *a re-distributed OFL-licensed Latin font.* |
-  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-vidaloka) |
-  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-vidaloka)
 * **Verdanto Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-verdanto) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-verdanto)
+* **Vidaloka Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-vidaloka) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-vidaloka)
+* **Vis-A-Vis Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-vis-a-vis) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-vis-a-vis)
 * **Water Brush Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-water-brush) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-water-brush)
