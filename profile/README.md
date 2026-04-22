@@ -1211,6 +1211,9 @@ public to use.
 * **Style Script Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-style-script) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-style-script)
+* **Sulphur Point Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-sulphur-point) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-sulphur-point)
 * **Symphonie CAT Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-symphonie-cat) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-symphonie-cat)
