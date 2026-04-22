@@ -1134,6 +1134,9 @@ public to use.
   Greek supported font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-quantum) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-quantum)
+* **Quicksand Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-quicksand) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-quicksand)
 * **Rampant One Font** - *a re-distributed OFL-licensed Japanese with Cyrillic,
   Latin, Chinese, and Greek supported font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-rampant-one) |
