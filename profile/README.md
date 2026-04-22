@@ -1102,6 +1102,9 @@ public to use.
 * **Pixeloid Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-pixeloid) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-pixeloid)
+* **Poiret One Font** - *a re-distributed OFL-licensed Latin & Cyrillic font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-poiret-one) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-poiret-one)
 * **Poltawski Nowy Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-poltawski-nowy) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-poltawski-nowy)
