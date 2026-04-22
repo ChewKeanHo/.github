@@ -1259,6 +1259,9 @@ public to use.
 * **Urging Osmosis Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-urging-osmosis) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-urging-osmosis)
+* **Vidaloka Font** - *a re-distributed OFL-licensed Latin font.* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-fonts-vidaloka) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-fonts-vidaloka)
 * **Verdanto Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-verdanto) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-verdanto)
