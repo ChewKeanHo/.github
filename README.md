@@ -3,8 +3,8 @@ here. My domains cover:
 
 * **[System Software](#system-software)** - computing, processing, automation,
   web, controls, embedded, etc.
-* **[System Hardware](#system-hardware)** - fabrication, designs, production,
-  experimentation, etc.
+* **[Fabricable Hardware](#fabricable-hardware)** - fabrication, designs,
+  production, experimentation, etc.
 * **[Creative Visuals](#creative-visuals)** - icons, vector graphics,
   trademarks, illustrations, fonts, etc.
 * **[Soundtracks](#soundtracks)** - sound effects, background music, etc.
@@ -150,7 +150,7 @@ versions.
 
 
 
-## System Hardware
+## Fabricable Hardware
 
 [![banner](/.internals/trademarks/banner-hardware_1200x100.svg)](#)
 
@@ -1460,8 +1460,8 @@ to the trademark owner's usage policy.
   [493x312](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhosoundtracks-493x312) |
   [630x1200](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhosoundtracks-630x1200) |
   [7680x4320](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhosoundtracks-7680x4320)
-* **(Holloway) Chew Kean Ho's System Hardware** -
-  *the created official (Holloway) Chew, Kean Ho's System Hardware trademark logos.* |
+* **(Holloway) Chew Kean Ho's Fabricable Hardware** -
+  *the created official (Holloway) Chew, Kean Ho's Fabricable Hardware trademark logos.* |
   [1200x1200](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhohardware-1200x1200) |
   [1200x630](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhohardware-1200x630) |
   [1200x200](https://github.com/ChewKeanHo/visuals-trademarks-chewkeanhohardware-1200x200) |
