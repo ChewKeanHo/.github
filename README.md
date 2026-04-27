@@ -166,7 +166,10 @@ and develop the production processes and their product outputs reliably.
 Products, design, and processes released under free (as in freedom and monetary)
 licenses for the public to use.
 
-* Coming soon.
+* **Printable Envelope** - *DIY Printable Letter Envelope Layout For
+  Personalized and Rare Uses.* |
+  [GitHub](https://github.com/ChewKeanHo/hardware-printable-envelope) |
+  [Internal (Private URL)](/ChewKeanHo/hardware-printable-envelope)
 
 
 
