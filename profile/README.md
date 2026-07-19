@@ -741,6 +741,10 @@ public to use.
 * **Loyal Sans Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-loyal-sans) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-loyal-sans)
+* **LT Shield Font Handwriting Guide** - *an open-licensed printable handwriting
+  guide using LyonType's Shield font (refer below).* |
+  [GitHub](https://github.com/ChewKeanHo/visuals-handwriting-lt-shield) |
+  [Internal (Private URL)](/ChewKeanHo/visuals-handwriting-lt-shield)
 * **Lucien Schoenschriftv CAT Font** - *a re-distributed OFL-licensed Latin font.* |
   [GitHub](https://github.com/ChewKeanHo/visuals-fonts-lucien-schoenschriftv-cat) |
   [Internal (Private URL)](/ChewKeanHo/visuals-fonts-lucien-schoenschriftv-cat)
